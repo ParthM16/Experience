@@ -1,10 +1,10 @@
-# Internship Experience
+# Experience
 
 <img src="https://github.com/user-attachments/assets/b2763b20-b69f-45e2-bdb8-ba4eed9af516" alt="description" height="200">
 
 
 ### 1. Copart
-  ##### <b>Database Developer Intern | Copart, Inc | Dallas, USA &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;January 2024 - Present</b>
+  ##### <b>Data Engineering | Copart, Inc | Dallas, USA &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;January 2024 - Present</b>
   <li>Developed a comprehensive <b>reference data management</b> web application using the Flask framework and a <b>Python</b> CLI application, collectively <b>reducing day-to-day manual tasks by 75%</b> and boosting overall productivity</li>
   </br>
 <li>Streamlined data loading processes in MariaDB from GCS by modifying pre-existing <b>SQL</b> queries and executing pre-built <b>Pentaho</b> jobs, improving data accuracy through analyzing data differences</li> 
