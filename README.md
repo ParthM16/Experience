@@ -3,7 +3,7 @@
   ### <ins><b>Data Analyst | Global Omni | Remote, USA </ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </br>November 2024 - Present</b>
   <li>Increase sales by 5% by analyzing point-of-sale data to identify hero products and top two bestsellers per category, enabling targeted promotions and data-driven menu optimization</li>
   </br>
-<li>Optimize inventory management by developing 12-month forecasts in Python and visualizing insights in Tableau, through analysis of sales trends, holidays, and event patterns to enable proactive planning</li> 
+<li>Developed 12-month forecasting models in Python and Tableau using time series and event-based analysis to enable proactive planning</li> 
 </br>
 
 
