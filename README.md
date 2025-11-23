@@ -8,8 +8,6 @@
 
 
   ### <ins><b>Data Engineer/Analyst | Copart, Inc | Dallas, USA</ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</br>January 2024 - October 2024</b>
-  <li>Automated reference data maintenance by building a Python application following SDLC and optimizing database querying (SQL), <b>reducing manual<b> effort by <b>75%<b> and ensuring data consistency</li>
-  </br>
 <li>Architected <b>ETL<b>(extract, transform, and load) <b>pipelines<b> to migrate 47M+ records from <b>GCP</b> to MariaDB using <b>Python</b> and <b>Pentaho</b> batch processing, improving data accessibility for analytics and reporting</li> 
 </br>
 <li>Collaborated with Product analysts of multiple teams to deploy business requirements mentioned in Jira tickets using <b>Liquibase commands</b>, and managed <b>GitHub</b> versioning to facilitate parallel development efforts.</li>
