@@ -1,16 +1,16 @@
 # Experience
 
   ### <ins><b>Data Analyst | Global Omni | Remote, USA </ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </br>November 2024 - Present</b>
-  <li>IDesigned data pipelines to ingest point-of-sale data, identifying hero products and KPIs that increased sales by 5% and enabled targeted promotions for Go-To-Market optimization</li>
+  <li>Designed <b>data pipeline</b> to ingest point-of-sale data, identifying hero products and KPIs that increased sales by 5% and enabled targeted promotions for <b>Go-To-Market</b> optimization</li>
   </br>
-<li>Developed 12-month forecasting models in Python and Tableau using time series and event-based analysis to enable proactive planning</li> 
+<li>Developed scalable dashboards and forecasting models in <b>Python</b> and Tableau, enabling proactive planning for sales teams and cross-functional stakeholders</li> 
 </br>
 
 
   ### <ins><b>Data Engineer/Analyst | Copart, Inc | Dallas, USA</ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</br>January 2024 - October 2024</b>
-  <li>**Automated** reference data maintenance by building a **Python** application following SDLC and optimizing database querying **(SQL)**, **reducing manual** effort by **75%** and ensuring data consistency</li>
+  <li>Automated reference data maintenance by building a Python application following SDLC and optimizing database querying (SQL), <b>reducing manual<b> effort by <b>75%<b> and ensuring data consistency</li>
   </br>
-<li>Architected **ETL**(extract, transform, and load) **pipelines** to migrate 47M+ records from **GCP** to MariaDB using **Python** and **Pentaho** batch processing, improving data accessibility for analytics and reporting</li> 
+<li>Architected <b>ETL<b>(extract, transform, and load) <b>pipelines<b> to migrate 47M+ records from <b>GCP</b> to MariaDB using <b>Python</b> and <b>Pentaho</b> batch processing, improving data accessibility for analytics and reporting</li> 
 </br>
 <li>Collaborated with Product analysts of multiple teams to deploy business requirements mentioned in Jira tickets using <b>Liquibase commands</b>, and managed <b>GitHub</b> versioning to facilitate parallel development efforts.</li>
 </br>
