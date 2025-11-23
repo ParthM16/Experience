@@ -1,16 +1,16 @@
 # Experience
 
   ### <ins><b>Data Analyst | Global Omni | Remote, USA </ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </br>November 2024 - Present</b>
-  <li>Increase sales by 5% by analyzing point-of-sale data to identify hero products and top two bestsellers per category, enabling targeted promotions and data-driven menu optimization</li>
+  <li>IDesigned data pipelines to ingest point-of-sale data, identifying hero products and KPIs that increased sales by 5% and enabled targeted promotions for Go-To-Market optimization</li>
   </br>
 <li>Developed 12-month forecasting models in Python and Tableau using time series and event-based analysis to enable proactive planning</li> 
 </br>
 
 
   ### <ins><b>Data Engineer/Analyst | Copart, Inc | Dallas, USA</ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</br>January 2024 - October 2024</b>
-  <li>Developed a comprehensive <b>reference data management</b> web application using the Flask framework and a <b>Python</b> CLI application, collectively <b>reducing day-to-day manual tasks by 75%</b> and boosting overall productivity</li>
+  <li>**Automated** reference data maintenance by building a **Python** application following SDLC and optimizing database querying **(SQL)**, **reducing manual** effort by **75%** and ensuring data consistency</li>
   </br>
-<li>Streamlined data loading processes in MariaDB from GCS by modifying pre-existing <b>SQL</b> queries and executing pre-built <b>Pentaho</b> jobs, improving data accuracy through analyzing data differences</li> 
+<li>Architected **ETL**(extract, transform, and load) **pipelines** to migrate 47M+ records from **GCP** to MariaDB using **Python** and **Pentaho** batch processing, improving data accessibility for analytics and reporting</li> 
 </br>
 <li>Collaborated with Product analysts of multiple teams to deploy business requirements mentioned in Jira tickets using <b>Liquibase commands</b>, and managed <b>GitHub</b> versioning to facilitate parallel development efforts.</li>
 </br>
