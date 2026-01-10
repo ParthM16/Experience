@@ -1,7 +1,7 @@
 # Experience
 
-  ### <ins><b>Data Analyst | Global Omni | Remote, USA </ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </br>November 2024 - Present</b>
-  <li>Designed <b>data pipeline</b> to ingest point-of-sale data, identifying hero products and KPIs that increased sales by 10% and enabled targeted promotions for <b>Go-To-Market</b> optimization</li>
+  ### <ins><b>Data Analyst | Global Omni | Remote, USA </ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </br>November 2024 - January 2026</b>
+  <li>Increase sales by <b>10%</b> by analyzing point-of-sale data to identify two bestsellers per category, enabling targeted promotions and data-driven insights to optimize the menu</li>
   </br>
 <li>Developed scalable dashboards and forecasting models in <b>Python</b> and Tableau, enabling proactive planning for sales teams and cross-functional stakeholders</li> 
 </br>
