@@ -3,17 +3,18 @@
   ### <ins><b>Data Analyst | Global Omni | Remote, USA </ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </br>November 2024 - January 2026</b>
   <li>Increase sales by <b>10%</b> by analyzing point-of-sale data to identify two bestsellers per category, enabling targeted promotions and data-driven insights to optimize the menu</li>
   </br>
-<li>Developed scalable dashboards and forecasting models in <b>Python</b> and Tableau, enabling proactive planning for sales teams and cross-functional stakeholders</li> 
+<li>Developed scalable dashboards and forecasting models in <b>Python</b> and Power BI, enabling proactive planning for sales teams and cross-functional stakeholders</li> 
 </br>
 
 
   ### <ins><b>Data Engineer/Analyst | Copart, Inc | Dallas, USA</ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</br>January 2024 - October 2024</b>
-<li>Architected <b>ETL<b>(extract, transform, and load) <b>pipelines<b> to migrate 47M+ records from <b>GCP</b> to MariaDB using <b>Python</b> and <b>Pentaho</b> batch processing, improving data accessibility for analytics and reporting</li> 
+<li>Automated reference data maintenance by building a Python web application following SDLC and writing complex SQL queries to optimize backend database operations, cutting manual effort by 75% and ensuring data consistency</li> 
 </br>
-<li>Collaborated with Product analysts of multiple teams to deploy business requirements mentioned in Jira tickets using <b>Liquibase commands</b>, and managed <b>GitHub</b> versioning to facilitate parallel development efforts.</li>
+<li>Migrated 47M+ records from GCP to MariaDB, which reduced transfer time by 75%, using batch processing through Pentaho and Python</li>
 </br>
-<li>Designed and implemented a Pentaho job to transfer <b>47 million records</b> from GCS to MariaDB using a bulk load method with a Python script, <b>reducing transfer time by over 75% compared to conventional methods</b></li>
+<li>Engineered a Python-based automation solution to replace manual data updates, streamlining collaboration with Product Analysts and achieving a 70% increase in operational efficiency</li>
 </br>
+
 
   ### <ins><b>Graduate Student Assistant | Stevens Institute of Technology | Hoboken, USA </ins> &emsp;&thinsp;&thinsp;</br>February 2023 – May 2023</b>
   <li>Implemented real-time multi-option questions during mid and end of lectures, boosting student engagement and reinforcing learning through immediate feedback</li>
