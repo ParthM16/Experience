@@ -1,9 +1,9 @@
 # Experience
 
   ### <ins><b>Data Analyst | Global Omni | Remote, USA </ins> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </br>November 2024 - January 2026</b>
-  <li>Increase sales by <b>10%</b> by analyzing point-of-sale data to identify two bestsellers per category, enabling targeted promotions and data-driven insights to optimize the menu</li>
+  <li>Engineered data pipelines using Python and SQL to integrate point-of-sale data into PostgreSQL, conducting exploratory data analysis (EDA) that identified high-performing products & drove a 10% increase in sales revenue</li>
   </br>
-<li>Developed scalable dashboards and forecasting models in <b>Python</b> and Power BI, enabling proactive planning for sales teams and cross-functional stakeholders</li> 
+<li>Automated dashboards to track Year-Over-Year (YOY) KPIs, leveraging Python to deploy 12-month forecasting models that optimized inventory and provided data-driven insights</li> 
 </br>
 
 
